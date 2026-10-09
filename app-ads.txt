@@ -1,4 +1,3 @@
-google.com, pub-7994016249866937, DIRECT, f08c47fec0942fa0
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
@@ -557,6 +556,7 @@ pubnative.net,1010070,RESELLER,d641df8625486a7b
 pubnative.net,1010071,RESELLER,d641df8625486a7b
 pubnative.net,1010072,RESELLER,d641df8625486a7b
 pubnative.net,1010073,RESELLER,d641df8625486a7b
+google.com, pub-7994016249866937, DIRECT, f08c47fec0942fa0
 rhebus.works,4962256775,RESELLER
 rhebus.works,9176497567,RESELLER
 rubiconproject.com,11726,RESELLER,0bfd66d529a55807
